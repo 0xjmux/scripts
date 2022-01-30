@@ -31,7 +31,7 @@ source /root/.bashrc
 # vim setup
 ################################
 touch /root/.vimrc
-echo "# Basic vimrc " >> /root/.vimrc
+echo "\" Basic vimrc " >> /root/.vimrc
 # spaces instead of tabs
 echo "set tabstop=4 shiftwidth=4 expandtab" >> /root/.vimrc
 # syntax highlighting
