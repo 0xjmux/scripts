@@ -21,3 +21,5 @@ alias openwiki='vim ~/vimwiki/index.md'
 # start WSL vpnkit, fixes VPN connection issues with WSL2
 #wsl.exe -d wsl-vpnkit service wsl-vpnkit start
 
+export EDITOR=/usr/bin/vim
+export VISUAL=/usr/bin/vim
