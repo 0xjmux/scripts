@@ -1,2 +1,2 @@
 # scripts
-publicly accessible scripts for basic task automation
+Publicly accessible scripts for basic automation when helping others with linux setup.
