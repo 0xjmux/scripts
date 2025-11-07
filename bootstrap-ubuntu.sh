@@ -33,4 +33,7 @@ echo "$HOMEDIR .bashrc and .vimrc updated"
 apt update -y
 apt upgrade -y
 apt install $basePackages -y
-# apt install $workstationPackages -y
+apt install $workstationPackages -y
+
+# downloads my ssh keys so they can be installed.
+wget https://github.com/0xjmux.keys
